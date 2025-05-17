@@ -1,4 +1,4 @@
-## Olá! Meu nome é Walério Siriano 👋🏿 sou Analista e Desenvolvedor de Sistemas 👨‍💻🛠️. 
+## Walério Siriano, Analista e Desenvolvedor de Sistemas 👨‍💻🛠️. 
 [![Linnkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://](https://www.linkedin.com/in/waleriosiriano/))
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://](https://www.instagram.com/sirianowalerio?igsh=MTB0aXNoZnY2NzN6dg%3D%3D&utm_source=qr))
 
